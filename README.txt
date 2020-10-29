@@ -1,8 +1,8 @@
-<h1>Projeto Digital Innovation One</h1>
+Projeto Digital Innovation One
 
 
 
-<h2>Projeto clone - Instagram</h2>
+Projeto clone - Instagram
 
 Projeto feito em HTML e CSS usando o conceito de CSS Flexbox e responsividade.
 
